@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/happybirhdayartem/static/css/main.ea356798.css",
-    "main.js": "/happybirhdayartem/static/js/main.2d620aec.js",
+    "main.css": "/happybirhdayartem/static/css/main.943cfcf3.css",
+    "main.js": "/happybirhdayartem/static/js/main.ed7be55c.js",
     "static/js/592.18766923.chunk.js": "/happybirhdayartem/static/js/592.18766923.chunk.js",
     "static/media/photo3.jpg": "/happybirhdayartem/static/media/photo3.f30c163fee763c4c69be.jpg",
     "static/media/photo2.jpg": "/happybirhdayartem/static/media/photo2.1f1080c2b9bdbe4a6412.jpg",
     "static/media/photo1.jpg": "/happybirhdayartem/static/media/photo1.c3b212c8e23ba73c8d91.jpg",
     "static/media/logo.svg": "/happybirhdayartem/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/happybirhdayartem/index.html",
-    "main.ea356798.css.map": "/happybirhdayartem/static/css/main.ea356798.css.map",
-    "main.2d620aec.js.map": "/happybirhdayartem/static/js/main.2d620aec.js.map",
+    "main.943cfcf3.css.map": "/happybirhdayartem/static/css/main.943cfcf3.css.map",
+    "main.ed7be55c.js.map": "/happybirhdayartem/static/js/main.ed7be55c.js.map",
     "592.18766923.chunk.js.map": "/happybirhdayartem/static/js/592.18766923.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea356798.css",
-    "static/js/main.2d620aec.js"
+    "static/css/main.943cfcf3.css",
+    "static/js/main.ed7be55c.js"
   ]
 }
